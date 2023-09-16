@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Semantic Segmentation of Biomass Images",
+    "description": [
+      "Trained a neural network to produce pixel-level annotations on a sample image",
+      "Implemented transfer learning to create a network with 70% accuracy",
+      "Created a web server using Docker that performed segmentation on user-uploaded images"
+    ]
+  },
+  {
+    "title": "Real-time Chat App",
+    "description": [
+      "Created a browser-based chat app that allows people to communicate with each other",
+      "Optimized chat interface to send images 20% faster",
+      "Identified and fixed 30+ bugs related to invalid messages"
+    ]
+  },
+  {
+    "title": "Pathfinding Algorithm Visualization",
+    "description": [
+      "Python, Pygame, Git",
+      "Reduced rendering times by 10% by changing how visited locations were stored",
+      "Implemented the Breadth-First, Depth-First, and A* pathfinding algorithms",
+      "Increased the maximum graph size by 50% by only redrawing recently visited nodes"
+    ]
+  }
+]

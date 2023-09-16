@@ -5,7 +5,11 @@
     "endDate": "May 2023",
     "company": "North Carolina State University",
     "location": "Raleigh, NC",
-    "description": ["Designed a machine learning application"]
+    "description": [
+      "Developed an iOS app using Swift that performed real-time object detection on camera input",
+      "Used multithreading to render bounding boxes for detected objects at 35 FPS",
+      "Decreased the latency of the detection process by 15% by removing repeated calculations"
+    ]
   },
   {
     "title": "Software Development Engineer Intern",
@@ -13,7 +17,12 @@
     "endDate": "August 2021",
     "company": "Amazon",
     "location": "Sunnyvale, CA",
-    "description": ["Used GraphQL and React"]
+    "description": [
+      "Automated a manual supply chain process which reduced overhead and increased efficiency by 30%",
+      "Streamlined assignment of reviewers to supply chain changes using TypeScript and GraphQL",
+      "Wrote 20 unit tests with Jest to ensure React components behaved correctly"
+    ]
+    
   },
   {
     "title": "Undergraduate Research Assistant",
@@ -21,6 +30,10 @@
     "endDate": "December 2021",
     "company": "North Carolina State University",
     "location": "Raleigh, NC",
-    "description": ["Performed Python education research"]
+    "description": [
+      "Designed an automation script in Bash to remove personal data from 1000 python code samples",
+      "Utilized Python and Bash to collect runtime data on 800 code samples",
+      "Analyzed timing data to discover and characterize 12 common inefficiencies"
+    ]
   }
 ]
