@@ -1,5 +1,8 @@
 # React + TypeScript + Vite
 
+# To run a dev server locally:
+`npm run dev`
+
 # To view the project:
 https://aashuparajuli.github.io
 
