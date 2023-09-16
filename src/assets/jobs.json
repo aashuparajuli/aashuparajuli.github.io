@@ -1,0 +1,26 @@
+[
+  {
+    "title": "IOS Developer",
+    "startDate": "Jan 2023",
+    "endDate": "May 2023",
+    "company": "North Carolina State University",
+    "location": "Raleigh, NC",
+    "description": ["Designed a machine learning application"]
+  },
+  {
+    "title": "Software Development Engineer Intern",
+    "startDate": "May 2022",
+    "endDate": "August 2021",
+    "company": "Amazon",
+    "location": "Sunnyvale, CA",
+    "description": ["Used GraphQL and React"]
+  },
+  {
+    "title": "Undergraduate Research Assistant",
+    "startDate": "August 2021",
+    "endDate": "December 2021",
+    "company": "North Carolina State University",
+    "location": "Raleigh, NC",
+    "description": ["Performed Python education research"]
+  }
+]
