@@ -1,9 +1,23 @@
 # React + TypeScript + Vite
 
 # To run a dev server locally:
+
 `npm run dev`
 
+# To push to github pages:
+
+`npm run deploy`
+
+# To-do
+
+- Lock location of header when you click between pages
+- Improve styling
+- add projects: rust, etc
+- Add button on header for skills
+- Add button for certifications
+
 # To view the project:
+
 https://aashuparajuli.github.io
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
