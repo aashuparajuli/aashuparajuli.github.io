@@ -13,10 +13,10 @@ function Job(props: SingleJob) {
   return (
     <>
       <div className="job">
-        <h2>
+        <h3>
           {props.job.title} | {props.job.startDate} - {props.job.endDate}
-        </h2>
-        <h3>{props.job.company}</h3>
+        </h3>
+        <h4>{props.job.company}</h4>
         <ul>
           {props.job.description.map((item) => (
             <li>{item}</li>
